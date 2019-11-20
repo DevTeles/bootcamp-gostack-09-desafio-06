@@ -31,7 +31,3 @@ Exemplo de código:
 ```js
 <WebView source={{ uri: repository.html_url }} style={{ flex: 1 }} />
 ```
-
-Resultado:
-
-![WebView](.github/exemplo-web-view.png)
